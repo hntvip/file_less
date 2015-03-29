@@ -1,0 +1,18 @@
+﻿git config --global user.name "Huynh Ngoc Tu"
+git config -global email.name "harrypottergirl93@gmail.com"
+----------------------
+clone cái folde về
+git clone http://github.com/hntvip/...git
+======================
+đẩy lên (nằm trong thư mục ở github )
+git add .  (add tất cả)
+git commit -m "them 1 tạp tin moi"
+git tag tengido
+git push origin master
+// nhap user name
+// nhap password
+git push origin tentag
+// nhap user name
+// nhap password
+đồng bộ file:
+git pull 
