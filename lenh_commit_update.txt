@@ -1,0 +1,11 @@
+﻿http://blog.siliconstraits.vn/quan-ly-code-voi-git/
+ git reset --mode [commit]
+// hỏi
+git reset --help
+----
+commit1
+comnit2
+commit3
+commit4
+vd: git reset --hard HEAD
+	
