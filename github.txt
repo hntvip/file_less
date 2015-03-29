@@ -16,3 +16,4 @@ git push origin tentag
 // nhap password
 đồng bộ file:
 git pull 
+---------------hết-----------
